@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 554a9477868ee4ce88f8eb1ed19395cc
+timeCreated: 1519222212
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barrel_Low001
+    100002: Body_Low001
+    100004: Bullet
+    100006: Bullet_001
+    100008: Bullet_002
+    100010: Bullet_003
+    100012: Bullet_004
+    100014: Bullet_005
+    100016: Cylinder
+    100018: Hammer_Low001
+    100020: L_Switch_Low001
+    100022: L_Tube_Low001
+    100024: L_Tube_Minor_Low001
+    100026: Laser
+    100028: Laser_Low001
+    100030: //RootNode
+    100032: Pin_Low001
+    100034: Release_Low001
+    100036: Safety_Low001
+    100038: Sight_Back_Low001
+    100040: Sight_Front_Low001
+    100042: Trigger_Low001
+    400000: Barrel_Low001
+    400002: Body_Low001
+    400004: Bullet
+    400006: Bullet_001
+    400008: Bullet_002
+    400010: Bullet_003
+    400012: Bullet_004
+    400014: Bullet_005
+    400016: Cylinder
+    400018: Hammer_Low001
+    400020: L_Switch_Low001
+    400022: L_Tube_Low001
+    400024: L_Tube_Minor_Low001
+    400026: Laser
+    400028: Laser_Low001
+    400030: //RootNode
+    400032: Pin_Low001
+    400034: Release_Low001
+    400036: Safety_Low001
+    400038: Sight_Back_Low001
+    400040: Sight_Front_Low001
+    400042: Trigger_Low001
+    2100000: Ots
+    2100002: Laser
+    2300000: Barrel_Low001
+    2300002: Body_Low001
+    2300004: Bullet
+    2300006: Bullet_001
+    2300008: Bullet_002
+    2300010: Bullet_003
+    2300012: Bullet_004
+    2300014: Bullet_005
+    2300016: Cylinder
+    2300018: Hammer_Low001
+    2300020: L_Switch_Low001
+    2300022: L_Tube_Low001
+    2300024: L_Tube_Minor_Low001
+    2300026: Laser
+    2300028: Laser_Low001
+    2300030: Pin_Low001
+    2300032: Release_Low001
+    2300034: Safety_Low001
+    2300036: Sight_Back_Low001
+    2300038: Sight_Front_Low001
+    2300040: Trigger_Low001
+    2300042: //RootNode
+    3300000: Barrel_Low001
+    3300002: Body_Low001
+    3300004: Bullet
+    3300006: Bullet_001
+    3300008: Bullet_002
+    3300010: Bullet_003
+    3300012: Bullet_004
+    3300014: Bullet_005
+    3300016: Cylinder
+    3300018: Hammer_Low001
+    3300020: L_Switch_Low001
+    3300022: L_Tube_Low001
+    3300024: L_Tube_Minor_Low001
+    3300026: Laser
+    3300028: Laser_Low001
+    3300030: Pin_Low001
+    3300032: Release_Low001
+    3300034: Safety_Low001
+    3300036: Sight_Back_Low001
+    3300038: Sight_Front_Low001
+    3300040: Trigger_Low001
+    3300042: //RootNode
+    4300000: Pin_Low001
+    4300002: Cylinder
+    4300004: L_Tube_Low001
+    4300006: L_Tube_Minor_Low001
+    4300008: L_Switch_Low001
+    4300010: Release_Low001
+    4300012: Safety_Low001
+    4300014: Hammer_Low001
+    4300016: Sight_Back_Low001
+    4300018: Sight_Front_Low001
+    4300020: Trigger_Low001
+    4300022: Bullet
+    4300024: Laser_Low001
+    4300026: Body_Low001
+    4300028: Barrel_Low001
+    4300030: Bullet_001
+    4300032: Bullet_002
+    4300034: Bullet_003
+    4300036: Bullet_004
+    4300038: Bullet_005
+    4300040: Laser
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ots
+    second: {fileID: 2100000, guid: e48e0bf87b392471cae9d3a5e3320bc7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 3eea8e92e9ca44ce482303d1c1390846
+timeCreated: 1519044632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: Cube
+    100004: Cube.001
+    100006: Cube.002
+    100008: Cube.003
+    100010: Icosphere
+    100012: Pot
+    100014: //RootNode
+    100016: BezierCurve
+    100018: Blush
+    100020: Soil
+    100022: Leaf_Base
+    100024: Leaf_Face
+    100026: Leaf_Stem
+    100028: Radish
+    100030: Smile
+    100032: Leaf
+    100034: Leaf.001
+    100036: Leaf.002
+    400000: BezierCircle
+    400002: Cube
+    400004: Cube.001
+    400006: Cube.002
+    400008: Cube.003
+    400010: Icosphere
+    400012: Pot
+    400014: //RootNode
+    400016: BezierCurve
+    400018: Blush
+    400020: Soil
+    400022: Leaf_Base
+    400024: Leaf_Face
+    400026: Leaf_Stem
+    400028: Radish
+    400030: Smile
+    400032: Leaf
+    400034: Leaf.001
+    400036: Leaf.002
+    2100000: No Name
+    2100002: Black
+    2300000: BezierCircle
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Icosphere
+    2300012: Pot
+    2300014: BezierCurve
+    2300016: Blush
+    2300018: Soil
+    2300020: Leaf_Base
+    2300022: Leaf_Face
+    2300024: Leaf_Stem
+    2300026: Radish
+    2300028: Smile
+    2300030: Leaf
+    2300032: Leaf.001
+    2300034: Leaf.002
+    3300000: BezierCircle
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Icosphere
+    3300012: Pot
+    3300014: BezierCurve
+    3300016: Blush
+    3300018: Soil
+    3300020: Leaf_Base
+    3300022: Leaf_Face
+    3300024: Leaf_Stem
+    3300026: Radish
+    3300028: Smile
+    3300030: Leaf
+    3300032: Leaf.001
+    3300034: Leaf.002
+    4300000: Cube.002
+    4300002: Cube.003
+    4300004: Cube.001
+    4300006: Cube
+    4300008: Icosphere
+    4300010: Pot
+    4300012: BezierCircle
+    4300014: BezierCurve
+    4300016: Soil
+    4300018: Blush
+    4300020: Radish
+    4300022: Leaf_Base
+    4300024: Leaf_Face
+    4300026: Leaf_Stem
+    4300028: Smile
+    4300030: Leaf.001
+    4300032: Leaf
+    4300034: Leaf.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 502d038ca8e7445968b43600ed1c2a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 100ae8ffe2ae94062b3da1c6e6336167, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

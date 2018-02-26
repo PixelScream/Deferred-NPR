@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 43e1d22bfd17443dc88831724b14e425
+timeCreated: 1519149633
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _compositeShader: {fileID: 4800000, guid: 1052b73021d21450c874467d432887f0, type: 3}
+  - _deferredShader: {fileID: 4800000, guid: af77c9a6c49fe4d85bbf37f2619c1a02, type: 3}
+  - _mat: {instanceID: 0}
+  - _lightLUT: {fileID: 2800000, guid: 9672e3e8f5c2a4167868f956ed42fb06, type: 3}
+  - _profile: {fileID: 114704753707862322, guid: 997c6641e9a3e4ae596ac28fe01ec44f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
