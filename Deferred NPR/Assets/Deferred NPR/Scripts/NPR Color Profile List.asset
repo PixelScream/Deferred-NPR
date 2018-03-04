@@ -16,6 +16,7 @@ MonoBehaviour:
   - {fileID: 114547871052423832}
   - {fileID: 114840402454044490}
   - {fileID: 114486436111830536}
+  - {fileID: 114515951539814604}
 --- !u!114 &114486436111830536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25,10 +26,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9a3910406fbc74d28b9ff78798fa33bc, type: 3}
-  m_Name: New Color Profile
+  m_Name: Orange Green
   m_EditorClassIdentifier: 
   colorLight: {r: 1, g: 0.41939, b: 0.39705884, a: 1}
   colorDark: {r: 0, g: 0.2205882, b: 0.02421093, a: 1}
+  _effect: {fileID: 0}
+--- !u!114 &114515951539814604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a3910406fbc74d28b9ff78798fa33bc, type: 3}
+  m_Name: Blank and White
+  m_EditorClassIdentifier: 
+  colorLight: {r: 0.875, g: 0.8705629, b: 0.81066173, a: 1}
+  colorDark: {r: 0.125, g: 0.06801471, b: 0.06801471, a: 1}
   _effect: {fileID: 0}
 --- !u!114 &114547871052423832
 MonoBehaviour:
@@ -39,10 +54,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9a3910406fbc74d28b9ff78798fa33bc, type: 3}
-  m_Name: New Color Profile
+  m_Name: Yellow Blue
   m_EditorClassIdentifier: 
   colorLight: {r: 1, g: 0.8009805, b: 0.53676474, a: 1}
-  colorDark: {r: 0, g: 0.2551261, b: 0.50735295, a: 1}
+  colorDark: {r: 0, g: 0, b: 0, a: 1}
   _effect: {fileID: 0}
 --- !u!114 &114704753707862322
 MonoBehaviour:
@@ -67,7 +82,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9a3910406fbc74d28b9ff78798fa33bc, type: 3}
-  m_Name: New Color Profile
+  m_Name: Peach Teal
   m_EditorClassIdentifier: 
   colorLight: {r: 1, g: 0.75490195, b: 0.5588235, a: 1}
   colorDark: {r: 0, g: 0.6965314, b: 0.77205884, a: 1}

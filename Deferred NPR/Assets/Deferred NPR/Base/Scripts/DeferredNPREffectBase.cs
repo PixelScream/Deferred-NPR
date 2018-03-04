@@ -27,14 +27,22 @@ public class DeferredNPREffectBase : MonoBehaviour {
 		Init();
 	}
 
-	void OnDisable()
+	void OnApplicationQuit()
 	{
 		Cleanup();
 	}
 
 	protected virtual void Init()
 	{
-		_mat = new Material(_compositeShader);
+		if(_mat == null)
+		{
+			Debug.Log("Initalizing");
+			_mat = new Material(_compositeShader);
+		}
+		else
+		{
+			_mat.shader = _compositeShader;
+		}
 		Set();
 	}
 
@@ -52,8 +60,12 @@ public class DeferredNPREffectBase : MonoBehaviour {
 
 	protected virtual void Cleanup()
 	{
+		
 		if(_mat != null)
+		{
+			Debug.Log("Destroying material");
 			DestroyImmediate(_mat);
+		}
 	}
 
 	[ContextMenu("Setup")]
